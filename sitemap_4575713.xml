@@ -4,505 +4,511 @@
 
   <url>
        <loc>https://www.ragie.ai/</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:17:45+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/mcp-bridge</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:12:29+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/advanced-rag-engine</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:13:35+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/agentic-retrieval</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:13:34+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/mcp-server</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T23:44:56+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/multimodal</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:16:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:56:29+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/basechat</loc>
-       <lastmod>2026-01-13T23:49:19+00:00</lastmod>
+       <lastmod>2026-01-20T20:31:41+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/tools</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:20:21+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
+       <loc>https://www.ragie.ai/changelog</loc>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
        <loc>https://www.ragie.ai/teams/legal</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T23:44:56+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/teams/sales-tech</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T20:31:41+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/teams/edtech</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:20:22+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/teams/productivity</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T21:45:06+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:20:21+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/benchmarks</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T23:23:57+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/agent-ready-launch-week</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T19:49:01+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/pricing</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:16:58+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/evaluating-ragie-against-legalbench-rag</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T20:09:29+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/terms-of-service</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:51:49+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/privacy-policy</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T21:04:26+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/security-disclosure</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:51:54+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/how-we-built-agentic-retrieval-at-ragie</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:20:21+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/making-mcp-tool-use-feel-natural-with-context-aware-tools</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:18:52+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/amazon-s3</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/backblaze</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/confluence</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:59:33+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/dropbox</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/freshdesk</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/gmail</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/google-cloud-storage</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/google-drive</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T23:34:29+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/hubspot</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/intercom</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/jira</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/notion</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/onedrive</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/salesforce</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/sharepoint</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/slack</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:27:21+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/webcrawler</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/connectors/zendesk</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:58:07+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/case-study/ellis</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/case-study/crystal-aos</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:20:21+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/case-study/vambe</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/case-study/glue</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:20:21+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/extracting-context-from-every-spreadsheet</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:44:36+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/agent-ready-launch-week---day-5-enterprise-grade-security-and-compliance</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T21:04:28+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/agent-ready-launch-week---day-4-new-connection-options-in-ragie-connect</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/agent-ready-launch-week---day-3-platform-enhancements</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/agent-ready-launch-week---day-2-streamable-http-model-context-protocol-server</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T21:59:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/agent-ready-launch-week---day-1--agentic-retrieval-is-here</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/powering-your-rag-integrating-google-drive-for-seamless-knowledge-ingestion</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:24:23+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/indexing-enterprise-documents-a-developers-guide-to-integrating-sharepoint-for-rag</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:08:46+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/the-architects-guide-to-production-rag-navigating-challenges-and-building-scalable-ai</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:43:35+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/how-we-built-multimodal-rag-for-audio-and-video</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:27:41+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/how-to-build-a-resume-parser-with-ragies-entity-extraction</loc>
-       <lastmod>2026-01-13T23:48:14+00:00</lastmod>
+       <lastmod>2026-01-20T17:32:37+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/integrating-ragie-connect-in-your-ai-app-a-step-by-step-guide-for-fast-rag-deployment</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T20:50:31+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/spring-launch-day-5-new-rag-admin-features</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/launch-week-day-4-base-chat-is-now-open-to-everyone</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T20:31:41+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/spring-launch-week---day-3-new-connectors-sharepoint-intercom-zendesk-and-backblaze</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:45:34+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/spring-launch-week---day-2-developer-experience-and-open-source-tools</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T22:40:57+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/spring-launch-week---day-1-native-audio-and-video-retrieval-augmented-generation-has-arrived</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T22:40:53+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/from-files-to-insight-building-a-document-summarizer-in-minutes-with-ragie</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T20:54:56+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/common-rag-problems-ai-data-segmentation</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/ragie-on-rag-is-dead-what-the-critics-are-getting-wrong-again</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T21:23:31+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/building-a-server-sent-events-sse-mcp-server-with-fastapi</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:41:30+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/give-cursor-access-to-google-drive-jira</loc>
-       <lastmod>2026-01-13T23:48:41+00:00</lastmod>
+       <lastmod>2026-01-20T17:38:29+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/crypto-co-counsel-case-study</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/introducing-base-chat-ai-chat-for-your-knowledge-base</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:16:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/day-4-new-connectors</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/open-source-rag-chatbot</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:25:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/2x-better-retrieval</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/introducing-ragie-connect</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T23:42:20+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/getting-started-with-ragies-python-sdk-for-rag</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:29:10+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/how-ragie-outperformed-the-financebench-test-part-2</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-21T00:56:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/how-to-generate-responses-using-ragies-typescript-sdk</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T22:38:42+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/hybrid-search</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:38:59+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/how-to-do-citations-with-ragie</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T21:34:02+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/ellis-case-study</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T22:00:08+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/ragie-outperformed-financebench</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:34:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/build-smarter-ai-apps-and-reduce-hallucinations-with-rag</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T18:59:14+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/advanced-rag-with-document-summarization</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:25:09+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/our-approach-to-table-chunking</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T17:58:30+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://www.ragie.ai/blog/intoducing-ragie-fully-managed-rag-as-a-service</loc>
-       <lastmod>2026-01-13T23:53:25+00:00</lastmod>
+       <lastmod>2026-01-20T19:49:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
